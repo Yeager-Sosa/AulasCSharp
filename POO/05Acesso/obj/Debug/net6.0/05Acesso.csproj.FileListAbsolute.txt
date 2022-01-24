@@ -1,0 +1,15 @@
+G:\Workspace\Curso C#\POO\05Acesso\obj\Debug\net6.0\05Acesso.csproj.AssemblyReference.cache
+G:\Workspace\Curso C#\POO\05Acesso\obj\Debug\net6.0\05Acesso.GeneratedMSBuildEditorConfig.editorconfig
+G:\Workspace\Curso C#\POO\05Acesso\obj\Debug\net6.0\05Acesso.AssemblyInfoInputs.cache
+G:\Workspace\Curso C#\POO\05Acesso\obj\Debug\net6.0\05Acesso.AssemblyInfo.cs
+G:\Workspace\Curso C#\POO\05Acesso\obj\Debug\net6.0\05Acesso.csproj.CoreCompileInputs.cache
+G:\Workspace\Curso C#\POO\05Acesso\bin\Debug\net6.0\05Acesso.exe
+G:\Workspace\Curso C#\POO\05Acesso\bin\Debug\net6.0\05Acesso.deps.json
+G:\Workspace\Curso C#\POO\05Acesso\bin\Debug\net6.0\05Acesso.runtimeconfig.json
+G:\Workspace\Curso C#\POO\05Acesso\bin\Debug\net6.0\05Acesso.dll
+G:\Workspace\Curso C#\POO\05Acesso\bin\Debug\net6.0\ref\05Acesso.dll
+G:\Workspace\Curso C#\POO\05Acesso\bin\Debug\net6.0\05Acesso.pdb
+G:\Workspace\Curso C#\POO\05Acesso\obj\Debug\net6.0\05Acesso.dll
+G:\Workspace\Curso C#\POO\05Acesso\obj\Debug\net6.0\ref\05Acesso.dll
+G:\Workspace\Curso C#\POO\05Acesso\obj\Debug\net6.0\05Acesso.pdb
+G:\Workspace\Curso C#\POO\05Acesso\obj\Debug\net6.0\05Acesso.genruntimeconfig.cache

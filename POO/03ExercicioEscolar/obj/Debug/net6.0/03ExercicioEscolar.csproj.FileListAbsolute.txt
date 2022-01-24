@@ -1,0 +1,15 @@
+G:\Workspace\Curso C#\POO\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.csproj.AssemblyReference.cache
+G:\Workspace\Curso C#\POO\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.GeneratedMSBuildEditorConfig.editorconfig
+G:\Workspace\Curso C#\POO\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.AssemblyInfoInputs.cache
+G:\Workspace\Curso C#\POO\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.AssemblyInfo.cs
+G:\Workspace\Curso C#\POO\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.csproj.CoreCompileInputs.cache
+G:\Workspace\Curso C#\POO\03ExercicioEscolar\bin\Debug\net6.0\03ExercicioEscolar.exe
+G:\Workspace\Curso C#\POO\03ExercicioEscolar\bin\Debug\net6.0\03ExercicioEscolar.deps.json
+G:\Workspace\Curso C#\POO\03ExercicioEscolar\bin\Debug\net6.0\03ExercicioEscolar.runtimeconfig.json
+G:\Workspace\Curso C#\POO\03ExercicioEscolar\bin\Debug\net6.0\03ExercicioEscolar.dll
+G:\Workspace\Curso C#\POO\03ExercicioEscolar\bin\Debug\net6.0\ref\03ExercicioEscolar.dll
+G:\Workspace\Curso C#\POO\03ExercicioEscolar\bin\Debug\net6.0\03ExercicioEscolar.pdb
+G:\Workspace\Curso C#\POO\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.dll
+G:\Workspace\Curso C#\POO\03ExercicioEscolar\obj\Debug\net6.0\ref\03ExercicioEscolar.dll
+G:\Workspace\Curso C#\POO\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.pdb
+G:\Workspace\Curso C#\POO\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.genruntimeconfig.cache
