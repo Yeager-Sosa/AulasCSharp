@@ -1,0 +1,16 @@
+G:\Workspace\Curso C#\Exercicio impar ou par\Exercicio impar ou par\bin\Debug\net5.0\Exercicio impar ou par.exe
+G:\Workspace\Curso C#\Exercicio impar ou par\Exercicio impar ou par\bin\Debug\net5.0\Exercicio impar ou par.deps.json
+G:\Workspace\Curso C#\Exercicio impar ou par\Exercicio impar ou par\bin\Debug\net5.0\Exercicio impar ou par.runtimeconfig.json
+G:\Workspace\Curso C#\Exercicio impar ou par\Exercicio impar ou par\bin\Debug\net5.0\Exercicio impar ou par.runtimeconfig.dev.json
+G:\Workspace\Curso C#\Exercicio impar ou par\Exercicio impar ou par\bin\Debug\net5.0\Exercicio impar ou par.dll
+G:\Workspace\Curso C#\Exercicio impar ou par\Exercicio impar ou par\bin\Debug\net5.0\ref\Exercicio impar ou par.dll
+G:\Workspace\Curso C#\Exercicio impar ou par\Exercicio impar ou par\bin\Debug\net5.0\Exercicio impar ou par.pdb
+G:\Workspace\Curso C#\Exercicio impar ou par\Exercicio impar ou par\obj\Debug\net5.0\Exercicio impar ou par.csproj.AssemblyReference.cache
+G:\Workspace\Curso C#\Exercicio impar ou par\Exercicio impar ou par\obj\Debug\net5.0\Exercicio impar ou par.GeneratedMSBuildEditorConfig.editorconfig
+G:\Workspace\Curso C#\Exercicio impar ou par\Exercicio impar ou par\obj\Debug\net5.0\Exercicio impar ou par.AssemblyInfoInputs.cache
+G:\Workspace\Curso C#\Exercicio impar ou par\Exercicio impar ou par\obj\Debug\net5.0\Exercicio impar ou par.AssemblyInfo.cs
+G:\Workspace\Curso C#\Exercicio impar ou par\Exercicio impar ou par\obj\Debug\net5.0\Exercicio impar ou par.csproj.CoreCompileInputs.cache
+G:\Workspace\Curso C#\Exercicio impar ou par\Exercicio impar ou par\obj\Debug\net5.0\Exercicio impar ou par.dll
+G:\Workspace\Curso C#\Exercicio impar ou par\Exercicio impar ou par\obj\Debug\net5.0\ref\Exercicio impar ou par.dll
+G:\Workspace\Curso C#\Exercicio impar ou par\Exercicio impar ou par\obj\Debug\net5.0\Exercicio impar ou par.pdb
+G:\Workspace\Curso C#\Exercicio impar ou par\Exercicio impar ou par\obj\Debug\net5.0\Exercicio impar ou par.genruntimeconfig.cache

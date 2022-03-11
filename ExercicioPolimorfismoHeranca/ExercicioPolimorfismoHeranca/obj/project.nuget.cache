@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aeX3OS9hxh71QeeAVszEenxPewB+P9Qr1wyBgJj9DfparejUp7Tz5whrEodwIwW65ik6vmpTzWXALdomG7GHUg==",
+  "success": true,
+  "projectFilePath": "G:\\Workspace\\Curso C#\\ExercicioPolimorfismoHeranca\\ExercicioPolimorfismoHeranca\\ExercicioPolimorfismoHeranca.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dante\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

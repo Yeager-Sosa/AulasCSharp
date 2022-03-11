@@ -1,0 +1,16 @@
+G:\Workspace\Curso C#\List\List\bin\Debug\net5.0\List.exe
+G:\Workspace\Curso C#\List\List\bin\Debug\net5.0\List.deps.json
+G:\Workspace\Curso C#\List\List\bin\Debug\net5.0\List.runtimeconfig.json
+G:\Workspace\Curso C#\List\List\bin\Debug\net5.0\List.runtimeconfig.dev.json
+G:\Workspace\Curso C#\List\List\bin\Debug\net5.0\List.dll
+G:\Workspace\Curso C#\List\List\bin\Debug\net5.0\ref\List.dll
+G:\Workspace\Curso C#\List\List\bin\Debug\net5.0\List.pdb
+G:\Workspace\Curso C#\List\List\obj\Debug\net5.0\List.csproj.AssemblyReference.cache
+G:\Workspace\Curso C#\List\List\obj\Debug\net5.0\List.GeneratedMSBuildEditorConfig.editorconfig
+G:\Workspace\Curso C#\List\List\obj\Debug\net5.0\List.AssemblyInfoInputs.cache
+G:\Workspace\Curso C#\List\List\obj\Debug\net5.0\List.AssemblyInfo.cs
+G:\Workspace\Curso C#\List\List\obj\Debug\net5.0\List.csproj.CoreCompileInputs.cache
+G:\Workspace\Curso C#\List\List\obj\Debug\net5.0\List.dll
+G:\Workspace\Curso C#\List\List\obj\Debug\net5.0\ref\List.dll
+G:\Workspace\Curso C#\List\List\obj\Debug\net5.0\List.pdb
+G:\Workspace\Curso C#\List\List\obj\Debug\net5.0\List.genruntimeconfig.cache

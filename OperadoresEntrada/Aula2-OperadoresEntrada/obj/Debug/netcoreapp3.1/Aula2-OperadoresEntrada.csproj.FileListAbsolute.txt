@@ -1,0 +1,13 @@
+G:\Workspace\Curso C#\Aula2-OperadoresEntrada\Aula2-OperadoresEntrada\bin\Debug\netcoreapp3.1\Aula2-OperadoresEntrada.exe
+G:\Workspace\Curso C#\Aula2-OperadoresEntrada\Aula2-OperadoresEntrada\bin\Debug\netcoreapp3.1\Aula2-OperadoresEntrada.deps.json
+G:\Workspace\Curso C#\Aula2-OperadoresEntrada\Aula2-OperadoresEntrada\bin\Debug\netcoreapp3.1\Aula2-OperadoresEntrada.runtimeconfig.json
+G:\Workspace\Curso C#\Aula2-OperadoresEntrada\Aula2-OperadoresEntrada\bin\Debug\netcoreapp3.1\Aula2-OperadoresEntrada.runtimeconfig.dev.json
+G:\Workspace\Curso C#\Aula2-OperadoresEntrada\Aula2-OperadoresEntrada\bin\Debug\netcoreapp3.1\Aula2-OperadoresEntrada.dll
+G:\Workspace\Curso C#\Aula2-OperadoresEntrada\Aula2-OperadoresEntrada\bin\Debug\netcoreapp3.1\Aula2-OperadoresEntrada.pdb
+G:\Workspace\Curso C#\Aula2-OperadoresEntrada\Aula2-OperadoresEntrada\obj\Debug\netcoreapp3.1\Aula2-OperadoresEntrada.GeneratedMSBuildEditorConfig.editorconfig
+G:\Workspace\Curso C#\Aula2-OperadoresEntrada\Aula2-OperadoresEntrada\obj\Debug\netcoreapp3.1\Aula2-OperadoresEntrada.AssemblyInfoInputs.cache
+G:\Workspace\Curso C#\Aula2-OperadoresEntrada\Aula2-OperadoresEntrada\obj\Debug\netcoreapp3.1\Aula2-OperadoresEntrada.AssemblyInfo.cs
+G:\Workspace\Curso C#\Aula2-OperadoresEntrada\Aula2-OperadoresEntrada\obj\Debug\netcoreapp3.1\Aula2-OperadoresEntrada.csproj.CoreCompileInputs.cache
+G:\Workspace\Curso C#\Aula2-OperadoresEntrada\Aula2-OperadoresEntrada\obj\Debug\netcoreapp3.1\Aula2-OperadoresEntrada.dll
+G:\Workspace\Curso C#\Aula2-OperadoresEntrada\Aula2-OperadoresEntrada\obj\Debug\netcoreapp3.1\Aula2-OperadoresEntrada.pdb
+G:\Workspace\Curso C#\Aula2-OperadoresEntrada\Aula2-OperadoresEntrada\obj\Debug\netcoreapp3.1\Aula2-OperadoresEntrada.genruntimeconfig.cache

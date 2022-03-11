@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D2XFpr2WljEiydbaopaQtmT9EklXBTHkNdKjmdBl3WPRnbinx/iqx41lHSEd+N3QsdCYtfl7n2cbVRNy3mx6FA==",
+  "success": true,
+  "projectFilePath": "G:\\Workspace\\Curso C#\\Vetores\\Vetores\\Vetores.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dante\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

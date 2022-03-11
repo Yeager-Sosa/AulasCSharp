@@ -1,0 +1,14 @@
+G:\Workspace\Curso C#\resolvendoProblemaComOO\resolvendoProblemaComOO\obj\Debug\netcoreapp3.1\resolvendoProblemaComOO.GeneratedMSBuildEditorConfig.editorconfig
+G:\Workspace\Curso C#\resolvendoProblemaComOO\resolvendoProblemaComOO\obj\Debug\netcoreapp3.1\resolvendoProblemaComOO.AssemblyInfoInputs.cache
+G:\Workspace\Curso C#\resolvendoProblemaComOO\resolvendoProblemaComOO\obj\Debug\netcoreapp3.1\resolvendoProblemaComOO.AssemblyInfo.cs
+G:\Workspace\Curso C#\resolvendoProblemaComOO\resolvendoProblemaComOO\obj\Debug\netcoreapp3.1\resolvendoProblemaComOO.csproj.CoreCompileInputs.cache
+G:\Workspace\Curso C#\resolvendoProblemaComOO\resolvendoProblemaComOO\bin\Debug\netcoreapp3.1\resolvendoProblemaComOO.exe
+G:\Workspace\Curso C#\resolvendoProblemaComOO\resolvendoProblemaComOO\bin\Debug\netcoreapp3.1\resolvendoProblemaComOO.deps.json
+G:\Workspace\Curso C#\resolvendoProblemaComOO\resolvendoProblemaComOO\bin\Debug\netcoreapp3.1\resolvendoProblemaComOO.runtimeconfig.json
+G:\Workspace\Curso C#\resolvendoProblemaComOO\resolvendoProblemaComOO\bin\Debug\netcoreapp3.1\resolvendoProblemaComOO.runtimeconfig.dev.json
+G:\Workspace\Curso C#\resolvendoProblemaComOO\resolvendoProblemaComOO\bin\Debug\netcoreapp3.1\resolvendoProblemaComOO.dll
+G:\Workspace\Curso C#\resolvendoProblemaComOO\resolvendoProblemaComOO\bin\Debug\netcoreapp3.1\resolvendoProblemaComOO.pdb
+G:\Workspace\Curso C#\resolvendoProblemaComOO\resolvendoProblemaComOO\obj\Debug\netcoreapp3.1\resolvendoProblemaComOO.dll
+G:\Workspace\Curso C#\resolvendoProblemaComOO\resolvendoProblemaComOO\obj\Debug\netcoreapp3.1\resolvendoProblemaComOO.pdb
+G:\Workspace\Curso C#\resolvendoProblemaComOO\resolvendoProblemaComOO\obj\Debug\netcoreapp3.1\resolvendoProblemaComOO.genruntimeconfig.cache
+G:\Workspace\Curso C#\resolvendoProblemaComOO\resolvendoProblemaComOO\obj\Debug\netcoreapp3.1\resolvendoProblemaComOO.csproj.AssemblyReference.cache

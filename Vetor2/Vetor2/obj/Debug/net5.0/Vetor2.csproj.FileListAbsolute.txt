@@ -1,0 +1,15 @@
+G:\Workspace\Curso C#\Vetor2\Vetor2\bin\Debug\net5.0\Vetor2.exe
+G:\Workspace\Curso C#\Vetor2\Vetor2\bin\Debug\net5.0\Vetor2.deps.json
+G:\Workspace\Curso C#\Vetor2\Vetor2\bin\Debug\net5.0\Vetor2.runtimeconfig.json
+G:\Workspace\Curso C#\Vetor2\Vetor2\bin\Debug\net5.0\Vetor2.runtimeconfig.dev.json
+G:\Workspace\Curso C#\Vetor2\Vetor2\bin\Debug\net5.0\Vetor2.dll
+G:\Workspace\Curso C#\Vetor2\Vetor2\bin\Debug\net5.0\ref\Vetor2.dll
+G:\Workspace\Curso C#\Vetor2\Vetor2\bin\Debug\net5.0\Vetor2.pdb
+G:\Workspace\Curso C#\Vetor2\Vetor2\obj\Debug\net5.0\Vetor2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Workspace\Curso C#\Vetor2\Vetor2\obj\Debug\net5.0\Vetor2.AssemblyInfoInputs.cache
+G:\Workspace\Curso C#\Vetor2\Vetor2\obj\Debug\net5.0\Vetor2.AssemblyInfo.cs
+G:\Workspace\Curso C#\Vetor2\Vetor2\obj\Debug\net5.0\Vetor2.csproj.CoreCompileInputs.cache
+G:\Workspace\Curso C#\Vetor2\Vetor2\obj\Debug\net5.0\Vetor2.dll
+G:\Workspace\Curso C#\Vetor2\Vetor2\obj\Debug\net5.0\ref\Vetor2.dll
+G:\Workspace\Curso C#\Vetor2\Vetor2\obj\Debug\net5.0\Vetor2.pdb
+G:\Workspace\Curso C#\Vetor2\Vetor2\obj\Debug\net5.0\Vetor2.genruntimeconfig.cache

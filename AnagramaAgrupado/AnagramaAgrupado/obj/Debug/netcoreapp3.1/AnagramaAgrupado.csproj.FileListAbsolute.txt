@@ -1,0 +1,14 @@
+G:\Workspace\Curso C#\AnagramaAgrupado\AnagramaAgrupado\bin\Debug\netcoreapp3.1\AnagramaAgrupado.exe
+G:\Workspace\Curso C#\AnagramaAgrupado\AnagramaAgrupado\bin\Debug\netcoreapp3.1\AnagramaAgrupado.deps.json
+G:\Workspace\Curso C#\AnagramaAgrupado\AnagramaAgrupado\bin\Debug\netcoreapp3.1\AnagramaAgrupado.runtimeconfig.json
+G:\Workspace\Curso C#\AnagramaAgrupado\AnagramaAgrupado\bin\Debug\netcoreapp3.1\AnagramaAgrupado.runtimeconfig.dev.json
+G:\Workspace\Curso C#\AnagramaAgrupado\AnagramaAgrupado\bin\Debug\netcoreapp3.1\AnagramaAgrupado.dll
+G:\Workspace\Curso C#\AnagramaAgrupado\AnagramaAgrupado\bin\Debug\netcoreapp3.1\AnagramaAgrupado.pdb
+G:\Workspace\Curso C#\AnagramaAgrupado\AnagramaAgrupado\obj\Debug\netcoreapp3.1\AnagramaAgrupado.csproj.AssemblyReference.cache
+G:\Workspace\Curso C#\AnagramaAgrupado\AnagramaAgrupado\obj\Debug\netcoreapp3.1\AnagramaAgrupado.GeneratedMSBuildEditorConfig.editorconfig
+G:\Workspace\Curso C#\AnagramaAgrupado\AnagramaAgrupado\obj\Debug\netcoreapp3.1\AnagramaAgrupado.AssemblyInfoInputs.cache
+G:\Workspace\Curso C#\AnagramaAgrupado\AnagramaAgrupado\obj\Debug\netcoreapp3.1\AnagramaAgrupado.AssemblyInfo.cs
+G:\Workspace\Curso C#\AnagramaAgrupado\AnagramaAgrupado\obj\Debug\netcoreapp3.1\AnagramaAgrupado.csproj.CoreCompileInputs.cache
+G:\Workspace\Curso C#\AnagramaAgrupado\AnagramaAgrupado\obj\Debug\netcoreapp3.1\AnagramaAgrupado.dll
+G:\Workspace\Curso C#\AnagramaAgrupado\AnagramaAgrupado\obj\Debug\netcoreapp3.1\AnagramaAgrupado.pdb
+G:\Workspace\Curso C#\AnagramaAgrupado\AnagramaAgrupado\obj\Debug\netcoreapp3.1\AnagramaAgrupado.genruntimeconfig.cache

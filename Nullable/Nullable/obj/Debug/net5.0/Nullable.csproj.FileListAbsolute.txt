@@ -1,0 +1,16 @@
+G:\Workspace\Curso C#\Nullable\Nullable\bin\Debug\net5.0\Nullable.exe
+G:\Workspace\Curso C#\Nullable\Nullable\bin\Debug\net5.0\Nullable.deps.json
+G:\Workspace\Curso C#\Nullable\Nullable\bin\Debug\net5.0\Nullable.runtimeconfig.json
+G:\Workspace\Curso C#\Nullable\Nullable\bin\Debug\net5.0\Nullable.runtimeconfig.dev.json
+G:\Workspace\Curso C#\Nullable\Nullable\bin\Debug\net5.0\Nullable.dll
+G:\Workspace\Curso C#\Nullable\Nullable\bin\Debug\net5.0\ref\Nullable.dll
+G:\Workspace\Curso C#\Nullable\Nullable\bin\Debug\net5.0\Nullable.pdb
+G:\Workspace\Curso C#\Nullable\Nullable\obj\Debug\net5.0\Nullable.csproj.AssemblyReference.cache
+G:\Workspace\Curso C#\Nullable\Nullable\obj\Debug\net5.0\Nullable.GeneratedMSBuildEditorConfig.editorconfig
+G:\Workspace\Curso C#\Nullable\Nullable\obj\Debug\net5.0\Nullable.AssemblyInfoInputs.cache
+G:\Workspace\Curso C#\Nullable\Nullable\obj\Debug\net5.0\Nullable.AssemblyInfo.cs
+G:\Workspace\Curso C#\Nullable\Nullable\obj\Debug\net5.0\Nullable.csproj.CoreCompileInputs.cache
+G:\Workspace\Curso C#\Nullable\Nullable\obj\Debug\net5.0\Nullable.dll
+G:\Workspace\Curso C#\Nullable\Nullable\obj\Debug\net5.0\ref\Nullable.dll
+G:\Workspace\Curso C#\Nullable\Nullable\obj\Debug\net5.0\Nullable.pdb
+G:\Workspace\Curso C#\Nullable\Nullable\obj\Debug\net5.0\Nullable.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+G:\Workspace\Curso C#\ClasseAbstrata\ClasseAbstrata\obj\Debug\net5.0\ClasseAbstrata.csproj.AssemblyReference.cache
+G:\Workspace\Curso C#\ClasseAbstrata\ClasseAbstrata\obj\Debug\net5.0\ClasseAbstrata.GeneratedMSBuildEditorConfig.editorconfig
+G:\Workspace\Curso C#\ClasseAbstrata\ClasseAbstrata\obj\Debug\net5.0\ClasseAbstrata.AssemblyInfoInputs.cache
+G:\Workspace\Curso C#\ClasseAbstrata\ClasseAbstrata\obj\Debug\net5.0\ClasseAbstrata.AssemblyInfo.cs
+G:\Workspace\Curso C#\ClasseAbstrata\ClasseAbstrata\obj\Debug\net5.0\ClasseAbstrata.csproj.CoreCompileInputs.cache
+G:\Workspace\Curso C#\ClasseAbstrata\ClasseAbstrata\bin\Debug\net5.0\ClasseAbstrata.exe
+G:\Workspace\Curso C#\ClasseAbstrata\ClasseAbstrata\bin\Debug\net5.0\ClasseAbstrata.deps.json
+G:\Workspace\Curso C#\ClasseAbstrata\ClasseAbstrata\bin\Debug\net5.0\ClasseAbstrata.runtimeconfig.json
+G:\Workspace\Curso C#\ClasseAbstrata\ClasseAbstrata\bin\Debug\net5.0\ClasseAbstrata.runtimeconfig.dev.json
+G:\Workspace\Curso C#\ClasseAbstrata\ClasseAbstrata\bin\Debug\net5.0\ClasseAbstrata.dll
+G:\Workspace\Curso C#\ClasseAbstrata\ClasseAbstrata\bin\Debug\net5.0\ref\ClasseAbstrata.dll
+G:\Workspace\Curso C#\ClasseAbstrata\ClasseAbstrata\bin\Debug\net5.0\ClasseAbstrata.pdb
+G:\Workspace\Curso C#\ClasseAbstrata\ClasseAbstrata\obj\Debug\net5.0\ClasseAbstrata.dll
+G:\Workspace\Curso C#\ClasseAbstrata\ClasseAbstrata\obj\Debug\net5.0\ref\ClasseAbstrata.dll
+G:\Workspace\Curso C#\ClasseAbstrata\ClasseAbstrata\obj\Debug\net5.0\ClasseAbstrata.pdb
+G:\Workspace\Curso C#\ClasseAbstrata\ClasseAbstrata\obj\Debug\net5.0\ClasseAbstrata.genruntimeconfig.cache

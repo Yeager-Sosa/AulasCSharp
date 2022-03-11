@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yXlNEIYV+CziM6WUS4QzcgRwSlva+/svOclXvpL0H6MXSFX8Vxr0BxebeKrgCi/+kMyQ9wa+IONVxrACOafJbQ==",
+  "success": true,
+  "projectFilePath": "G:\\Workspace\\Curso C#\\ClasseAbstrata\\ClasseAbstrata\\ClasseAbstrata.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dante\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

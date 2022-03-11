@@ -1,0 +1,14 @@
+G:\Workspace\Curso C#\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.exe
+G:\Workspace\Curso C#\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.deps.json
+G:\Workspace\Curso C#\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.runtimeconfig.json
+G:\Workspace\Curso C#\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.runtimeconfig.dev.json
+G:\Workspace\Curso C#\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.dll
+G:\Workspace\Curso C#\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.pdb
+G:\Workspace\Curso C#\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.csproj.AssemblyReference.cache
+G:\Workspace\Curso C#\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+G:\Workspace\Curso C#\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.AssemblyInfoInputs.cache
+G:\Workspace\Curso C#\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.AssemblyInfo.cs
+G:\Workspace\Curso C#\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.csproj.CoreCompileInputs.cache
+G:\Workspace\Curso C#\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.dll
+G:\Workspace\Curso C#\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.pdb
+G:\Workspace\Curso C#\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.genruntimeconfig.cache

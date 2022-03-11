@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5+8jhhvr6NAs7mq1Kd6qoLtWbM+y04OHaijr9LO4GzWRTmdwhFYLsoHpNoj75bfFpXv64H0+MXIyuDp5EZwL3g==",
+  "success": true,
+  "projectFilePath": "G:\\Workspace\\Curso C#\\ExercicioFixacaoVetores\\ExercicioFixacaoVetores\\ExercicioFixacaoVetores.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dante\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

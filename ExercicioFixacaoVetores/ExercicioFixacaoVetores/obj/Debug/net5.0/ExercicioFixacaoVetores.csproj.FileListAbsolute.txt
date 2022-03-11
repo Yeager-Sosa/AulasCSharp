@@ -1,0 +1,16 @@
+G:\Workspace\Curso C#\ExercicioFixacaoVetores\ExercicioFixacaoVetores\bin\Debug\net5.0\ExercicioFixacaoVetores.exe
+G:\Workspace\Curso C#\ExercicioFixacaoVetores\ExercicioFixacaoVetores\bin\Debug\net5.0\ExercicioFixacaoVetores.deps.json
+G:\Workspace\Curso C#\ExercicioFixacaoVetores\ExercicioFixacaoVetores\bin\Debug\net5.0\ExercicioFixacaoVetores.runtimeconfig.json
+G:\Workspace\Curso C#\ExercicioFixacaoVetores\ExercicioFixacaoVetores\bin\Debug\net5.0\ExercicioFixacaoVetores.runtimeconfig.dev.json
+G:\Workspace\Curso C#\ExercicioFixacaoVetores\ExercicioFixacaoVetores\bin\Debug\net5.0\ExercicioFixacaoVetores.dll
+G:\Workspace\Curso C#\ExercicioFixacaoVetores\ExercicioFixacaoVetores\bin\Debug\net5.0\ref\ExercicioFixacaoVetores.dll
+G:\Workspace\Curso C#\ExercicioFixacaoVetores\ExercicioFixacaoVetores\bin\Debug\net5.0\ExercicioFixacaoVetores.pdb
+G:\Workspace\Curso C#\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\net5.0\ExercicioFixacaoVetores.csproj.AssemblyReference.cache
+G:\Workspace\Curso C#\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\net5.0\ExercicioFixacaoVetores.GeneratedMSBuildEditorConfig.editorconfig
+G:\Workspace\Curso C#\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\net5.0\ExercicioFixacaoVetores.AssemblyInfoInputs.cache
+G:\Workspace\Curso C#\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\net5.0\ExercicioFixacaoVetores.AssemblyInfo.cs
+G:\Workspace\Curso C#\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\net5.0\ExercicioFixacaoVetores.csproj.CoreCompileInputs.cache
+G:\Workspace\Curso C#\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\net5.0\ExercicioFixacaoVetores.dll
+G:\Workspace\Curso C#\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\net5.0\ref\ExercicioFixacaoVetores.dll
+G:\Workspace\Curso C#\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\net5.0\ExercicioFixacaoVetores.pdb
+G:\Workspace\Curso C#\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\net5.0\ExercicioFixacaoVetores.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fRq4kaQoQYp+NWezCZecpMruZcSDobJOe1xM/HjGxjZb3N3J4KJBTIwq9m1HH8fk3QJp26N9tBymyKNKDULV1g==",
+  "success": true,
+  "projectFilePath": "G:\\Workspace\\Curso C#\\Exercicio impar ou par\\Exercicio impar ou par\\Exercicio impar ou par.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dante\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+G:\Workspace\Curso C#\Encapsulamento\Encapsulamento\bin\Debug\net5.0\Encapsulamento.exe
+G:\Workspace\Curso C#\Encapsulamento\Encapsulamento\bin\Debug\net5.0\Encapsulamento.deps.json
+G:\Workspace\Curso C#\Encapsulamento\Encapsulamento\bin\Debug\net5.0\Encapsulamento.runtimeconfig.json
+G:\Workspace\Curso C#\Encapsulamento\Encapsulamento\bin\Debug\net5.0\Encapsulamento.runtimeconfig.dev.json
+G:\Workspace\Curso C#\Encapsulamento\Encapsulamento\bin\Debug\net5.0\Encapsulamento.dll
+G:\Workspace\Curso C#\Encapsulamento\Encapsulamento\bin\Debug\net5.0\ref\Encapsulamento.dll
+G:\Workspace\Curso C#\Encapsulamento\Encapsulamento\bin\Debug\net5.0\Encapsulamento.pdb
+G:\Workspace\Curso C#\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.csproj.AssemblyReference.cache
+G:\Workspace\Curso C#\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+G:\Workspace\Curso C#\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.AssemblyInfoInputs.cache
+G:\Workspace\Curso C#\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.AssemblyInfo.cs
+G:\Workspace\Curso C#\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.csproj.CoreCompileInputs.cache
+G:\Workspace\Curso C#\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.dll
+G:\Workspace\Curso C#\Encapsulamento\Encapsulamento\obj\Debug\net5.0\ref\Encapsulamento.dll
+G:\Workspace\Curso C#\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.pdb
+G:\Workspace\Curso C#\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.genruntimeconfig.cache

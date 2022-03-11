@@ -1,0 +1,16 @@
+G:\Workspace\Curso C#\ExercicioFixicao\ExercicioFixicao\bin\Debug\net5.0\ExercicioFixicao.exe
+G:\Workspace\Curso C#\ExercicioFixicao\ExercicioFixicao\bin\Debug\net5.0\ExercicioFixicao.deps.json
+G:\Workspace\Curso C#\ExercicioFixicao\ExercicioFixicao\bin\Debug\net5.0\ExercicioFixicao.runtimeconfig.json
+G:\Workspace\Curso C#\ExercicioFixicao\ExercicioFixicao\bin\Debug\net5.0\ExercicioFixicao.runtimeconfig.dev.json
+G:\Workspace\Curso C#\ExercicioFixicao\ExercicioFixicao\bin\Debug\net5.0\ExercicioFixicao.dll
+G:\Workspace\Curso C#\ExercicioFixicao\ExercicioFixicao\bin\Debug\net5.0\ref\ExercicioFixicao.dll
+G:\Workspace\Curso C#\ExercicioFixicao\ExercicioFixicao\bin\Debug\net5.0\ExercicioFixicao.pdb
+G:\Workspace\Curso C#\ExercicioFixicao\ExercicioFixicao\obj\Debug\net5.0\ExercicioFixicao.csproj.AssemblyReference.cache
+G:\Workspace\Curso C#\ExercicioFixicao\ExercicioFixicao\obj\Debug\net5.0\ExercicioFixicao.GeneratedMSBuildEditorConfig.editorconfig
+G:\Workspace\Curso C#\ExercicioFixicao\ExercicioFixicao\obj\Debug\net5.0\ExercicioFixicao.AssemblyInfoInputs.cache
+G:\Workspace\Curso C#\ExercicioFixicao\ExercicioFixicao\obj\Debug\net5.0\ExercicioFixicao.AssemblyInfo.cs
+G:\Workspace\Curso C#\ExercicioFixicao\ExercicioFixicao\obj\Debug\net5.0\ExercicioFixicao.csproj.CoreCompileInputs.cache
+G:\Workspace\Curso C#\ExercicioFixicao\ExercicioFixicao\obj\Debug\net5.0\ExercicioFixicao.dll
+G:\Workspace\Curso C#\ExercicioFixicao\ExercicioFixicao\obj\Debug\net5.0\ref\ExercicioFixicao.dll
+G:\Workspace\Curso C#\ExercicioFixicao\ExercicioFixicao\obj\Debug\net5.0\ExercicioFixicao.pdb
+G:\Workspace\Curso C#\ExercicioFixicao\ExercicioFixicao\obj\Debug\net5.0\ExercicioFixicao.genruntimeconfig.cache

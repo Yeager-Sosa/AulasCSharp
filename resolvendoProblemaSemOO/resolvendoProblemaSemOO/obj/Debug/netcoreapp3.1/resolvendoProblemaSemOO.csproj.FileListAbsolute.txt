@@ -1,0 +1,14 @@
+G:\Workspace\Curso C#\resolvendoProblemaSemOO\resolvendoProblemaSemOO\bin\Debug\netcoreapp3.1\resolvendoProblemaSemOO.exe
+G:\Workspace\Curso C#\resolvendoProblemaSemOO\resolvendoProblemaSemOO\bin\Debug\netcoreapp3.1\resolvendoProblemaSemOO.deps.json
+G:\Workspace\Curso C#\resolvendoProblemaSemOO\resolvendoProblemaSemOO\bin\Debug\netcoreapp3.1\resolvendoProblemaSemOO.runtimeconfig.json
+G:\Workspace\Curso C#\resolvendoProblemaSemOO\resolvendoProblemaSemOO\bin\Debug\netcoreapp3.1\resolvendoProblemaSemOO.runtimeconfig.dev.json
+G:\Workspace\Curso C#\resolvendoProblemaSemOO\resolvendoProblemaSemOO\bin\Debug\netcoreapp3.1\resolvendoProblemaSemOO.dll
+G:\Workspace\Curso C#\resolvendoProblemaSemOO\resolvendoProblemaSemOO\bin\Debug\netcoreapp3.1\resolvendoProblemaSemOO.pdb
+G:\Workspace\Curso C#\resolvendoProblemaSemOO\resolvendoProblemaSemOO\obj\Debug\netcoreapp3.1\resolvendoProblemaSemOO.csproj.AssemblyReference.cache
+G:\Workspace\Curso C#\resolvendoProblemaSemOO\resolvendoProblemaSemOO\obj\Debug\netcoreapp3.1\resolvendoProblemaSemOO.GeneratedMSBuildEditorConfig.editorconfig
+G:\Workspace\Curso C#\resolvendoProblemaSemOO\resolvendoProblemaSemOO\obj\Debug\netcoreapp3.1\resolvendoProblemaSemOO.AssemblyInfoInputs.cache
+G:\Workspace\Curso C#\resolvendoProblemaSemOO\resolvendoProblemaSemOO\obj\Debug\netcoreapp3.1\resolvendoProblemaSemOO.AssemblyInfo.cs
+G:\Workspace\Curso C#\resolvendoProblemaSemOO\resolvendoProblemaSemOO\obj\Debug\netcoreapp3.1\resolvendoProblemaSemOO.csproj.CoreCompileInputs.cache
+G:\Workspace\Curso C#\resolvendoProblemaSemOO\resolvendoProblemaSemOO\obj\Debug\netcoreapp3.1\resolvendoProblemaSemOO.dll
+G:\Workspace\Curso C#\resolvendoProblemaSemOO\resolvendoProblemaSemOO\obj\Debug\netcoreapp3.1\resolvendoProblemaSemOO.pdb
+G:\Workspace\Curso C#\resolvendoProblemaSemOO\resolvendoProblemaSemOO\obj\Debug\netcoreapp3.1\resolvendoProblemaSemOO.genruntimeconfig.cache

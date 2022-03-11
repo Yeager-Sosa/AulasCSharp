@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kP5T4zZ1nqAQIZFnb/CyzwRrsuij6Ff6mHFBxXYVP0IZFGn/FXvMQeQ/PcU77MWleMQTBLr0OQsEdtboJH3frw==",
+  "success": true,
+  "projectFilePath": "G:\\Workspace\\Curso C#\\Nullable\\Nullable\\Nullable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dante\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+G:\Workspace\Curso C#\Vetores\Vetores\bin\Debug\net5.0\Vetores.exe
+G:\Workspace\Curso C#\Vetores\Vetores\bin\Debug\net5.0\Vetores.deps.json
+G:\Workspace\Curso C#\Vetores\Vetores\bin\Debug\net5.0\Vetores.runtimeconfig.json
+G:\Workspace\Curso C#\Vetores\Vetores\bin\Debug\net5.0\Vetores.runtimeconfig.dev.json
+G:\Workspace\Curso C#\Vetores\Vetores\bin\Debug\net5.0\Vetores.dll
+G:\Workspace\Curso C#\Vetores\Vetores\bin\Debug\net5.0\ref\Vetores.dll
+G:\Workspace\Curso C#\Vetores\Vetores\bin\Debug\net5.0\Vetores.pdb
+G:\Workspace\Curso C#\Vetores\Vetores\obj\Debug\net5.0\Vetores.csproj.AssemblyReference.cache
+G:\Workspace\Curso C#\Vetores\Vetores\obj\Debug\net5.0\Vetores.GeneratedMSBuildEditorConfig.editorconfig
+G:\Workspace\Curso C#\Vetores\Vetores\obj\Debug\net5.0\Vetores.AssemblyInfoInputs.cache
+G:\Workspace\Curso C#\Vetores\Vetores\obj\Debug\net5.0\Vetores.AssemblyInfo.cs
+G:\Workspace\Curso C#\Vetores\Vetores\obj\Debug\net5.0\Vetores.csproj.CoreCompileInputs.cache
+G:\Workspace\Curso C#\Vetores\Vetores\obj\Debug\net5.0\Vetores.dll
+G:\Workspace\Curso C#\Vetores\Vetores\obj\Debug\net5.0\ref\Vetores.dll
+G:\Workspace\Curso C#\Vetores\Vetores\obj\Debug\net5.0\Vetores.pdb
+G:\Workspace\Curso C#\Vetores\Vetores\obj\Debug\net5.0\Vetores.genruntimeconfig.cache

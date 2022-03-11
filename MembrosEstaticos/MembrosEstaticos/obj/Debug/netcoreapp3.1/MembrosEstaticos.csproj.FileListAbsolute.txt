@@ -1,0 +1,14 @@
+G:\Workspace\Curso C#\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.exe
+G:\Workspace\Curso C#\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.deps.json
+G:\Workspace\Curso C#\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.runtimeconfig.json
+G:\Workspace\Curso C#\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.runtimeconfig.dev.json
+G:\Workspace\Curso C#\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.dll
+G:\Workspace\Curso C#\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.pdb
+G:\Workspace\Curso C#\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.csproj.AssemblyReference.cache
+G:\Workspace\Curso C#\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+G:\Workspace\Curso C#\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.AssemblyInfoInputs.cache
+G:\Workspace\Curso C#\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.AssemblyInfo.cs
+G:\Workspace\Curso C#\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.csproj.CoreCompileInputs.cache
+G:\Workspace\Curso C#\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.dll
+G:\Workspace\Curso C#\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.pdb
+G:\Workspace\Curso C#\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.genruntimeconfig.cache

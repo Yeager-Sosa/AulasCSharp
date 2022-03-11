@@ -1,0 +1,14 @@
+G:\Workspace\Curso C#\AtividadeEstoque\AtividadeEstoque\bin\Debug\netcoreapp3.1\AtividadeEstoque.exe
+G:\Workspace\Curso C#\AtividadeEstoque\AtividadeEstoque\bin\Debug\netcoreapp3.1\AtividadeEstoque.deps.json
+G:\Workspace\Curso C#\AtividadeEstoque\AtividadeEstoque\bin\Debug\netcoreapp3.1\AtividadeEstoque.runtimeconfig.json
+G:\Workspace\Curso C#\AtividadeEstoque\AtividadeEstoque\bin\Debug\netcoreapp3.1\AtividadeEstoque.runtimeconfig.dev.json
+G:\Workspace\Curso C#\AtividadeEstoque\AtividadeEstoque\bin\Debug\netcoreapp3.1\AtividadeEstoque.dll
+G:\Workspace\Curso C#\AtividadeEstoque\AtividadeEstoque\bin\Debug\netcoreapp3.1\AtividadeEstoque.pdb
+G:\Workspace\Curso C#\AtividadeEstoque\AtividadeEstoque\obj\Debug\netcoreapp3.1\AtividadeEstoque.csproj.AssemblyReference.cache
+G:\Workspace\Curso C#\AtividadeEstoque\AtividadeEstoque\obj\Debug\netcoreapp3.1\AtividadeEstoque.GeneratedMSBuildEditorConfig.editorconfig
+G:\Workspace\Curso C#\AtividadeEstoque\AtividadeEstoque\obj\Debug\netcoreapp3.1\AtividadeEstoque.AssemblyInfoInputs.cache
+G:\Workspace\Curso C#\AtividadeEstoque\AtividadeEstoque\obj\Debug\netcoreapp3.1\AtividadeEstoque.AssemblyInfo.cs
+G:\Workspace\Curso C#\AtividadeEstoque\AtividadeEstoque\obj\Debug\netcoreapp3.1\AtividadeEstoque.csproj.CoreCompileInputs.cache
+G:\Workspace\Curso C#\AtividadeEstoque\AtividadeEstoque\obj\Debug\netcoreapp3.1\AtividadeEstoque.dll
+G:\Workspace\Curso C#\AtividadeEstoque\AtividadeEstoque\obj\Debug\netcoreapp3.1\AtividadeEstoque.pdb
+G:\Workspace\Curso C#\AtividadeEstoque\AtividadeEstoque\obj\Debug\netcoreapp3.1\AtividadeEstoque.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+G:\Workspace\Curso C#\ExercicioPolimorfismoHeranca\ExercicioPolimorfismoHeranca\bin\Debug\net5.0\ExercicioPolimorfismoHeranca.exe
+G:\Workspace\Curso C#\ExercicioPolimorfismoHeranca\ExercicioPolimorfismoHeranca\bin\Debug\net5.0\ExercicioPolimorfismoHeranca.deps.json
+G:\Workspace\Curso C#\ExercicioPolimorfismoHeranca\ExercicioPolimorfismoHeranca\bin\Debug\net5.0\ExercicioPolimorfismoHeranca.runtimeconfig.json
+G:\Workspace\Curso C#\ExercicioPolimorfismoHeranca\ExercicioPolimorfismoHeranca\bin\Debug\net5.0\ExercicioPolimorfismoHeranca.runtimeconfig.dev.json
+G:\Workspace\Curso C#\ExercicioPolimorfismoHeranca\ExercicioPolimorfismoHeranca\bin\Debug\net5.0\ExercicioPolimorfismoHeranca.dll
+G:\Workspace\Curso C#\ExercicioPolimorfismoHeranca\ExercicioPolimorfismoHeranca\bin\Debug\net5.0\ref\ExercicioPolimorfismoHeranca.dll
+G:\Workspace\Curso C#\ExercicioPolimorfismoHeranca\ExercicioPolimorfismoHeranca\bin\Debug\net5.0\ExercicioPolimorfismoHeranca.pdb
+G:\Workspace\Curso C#\ExercicioPolimorfismoHeranca\ExercicioPolimorfismoHeranca\obj\Debug\net5.0\ExercicioPolimorfismoHeranca.csproj.AssemblyReference.cache
+G:\Workspace\Curso C#\ExercicioPolimorfismoHeranca\ExercicioPolimorfismoHeranca\obj\Debug\net5.0\ExercicioPolimorfismoHeranca.GeneratedMSBuildEditorConfig.editorconfig
+G:\Workspace\Curso C#\ExercicioPolimorfismoHeranca\ExercicioPolimorfismoHeranca\obj\Debug\net5.0\ExercicioPolimorfismoHeranca.AssemblyInfoInputs.cache
+G:\Workspace\Curso C#\ExercicioPolimorfismoHeranca\ExercicioPolimorfismoHeranca\obj\Debug\net5.0\ExercicioPolimorfismoHeranca.AssemblyInfo.cs
+G:\Workspace\Curso C#\ExercicioPolimorfismoHeranca\ExercicioPolimorfismoHeranca\obj\Debug\net5.0\ExercicioPolimorfismoHeranca.csproj.CoreCompileInputs.cache
+G:\Workspace\Curso C#\ExercicioPolimorfismoHeranca\ExercicioPolimorfismoHeranca\obj\Debug\net5.0\ExercicioPolimorfismoHeranca.dll
+G:\Workspace\Curso C#\ExercicioPolimorfismoHeranca\ExercicioPolimorfismoHeranca\obj\Debug\net5.0\ref\ExercicioPolimorfismoHeranca.dll
+G:\Workspace\Curso C#\ExercicioPolimorfismoHeranca\ExercicioPolimorfismoHeranca\obj\Debug\net5.0\ExercicioPolimorfismoHeranca.pdb
+G:\Workspace\Curso C#\ExercicioPolimorfismoHeranca\ExercicioPolimorfismoHeranca\obj\Debug\net5.0\ExercicioPolimorfismoHeranca.genruntimeconfig.cache
